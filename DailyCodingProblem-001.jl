@@ -43,4 +43,4 @@ function inArray(array, x)
 end
 
 # Prints true for k = 17, prints false for k = 11
-println(@time isAddend(array, k))
+println(isAddend(array, k))
